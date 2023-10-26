@@ -1,0 +1,15 @@
+# python cache
+__pycache__/
+*.pyc
+
+# ide
+.idea/
+
+# C extensions
+detector/lanms/adaptor.so
+*.so
+
+# virtualenv
+.venv
+venv/
+ENV/

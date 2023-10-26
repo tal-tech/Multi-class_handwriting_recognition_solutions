@@ -1,0 +1,7 @@
+handwriting-erase/src/ai_model/release/data/models/det_handwrite_erase_v1.0.8.trt
+handwriting-erase/src/ai_model/release/lib/libnvinfer.so
+handwriting-erase/src/ai_model/release/lib/libnvinfer.so.8.0.1
+handwriting-erase/src/ai_model/release/lib/libnvinfer.so.8
+novabell_ocr_formula/models/CRNN_v4.0.1/train_611999.ckpt
+novabell_ocr_formula/models/N_EAST_v0.0.0/ctpn_82500.ckpt.meta
+novabell_ocr_formula/models/N_EAST_v0.0.0/ctpn_82500.ckpt
